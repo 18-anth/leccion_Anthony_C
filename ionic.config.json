@@ -1,0 +1,7 @@
+{
+  "name": "lección_anthony_cordova_moreno",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
