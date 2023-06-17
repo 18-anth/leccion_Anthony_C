@@ -1,6 +1,16 @@
 {
   "appId": "io.ionic.starter",
   "appName": "lección_anthony_cordova_moreno",
+  "npmClient":"npm",
   "webDir": "www",
-  "bundledWebRuntime": false
+  "bundledWebRuntime": false,
+  "plugins":{
+    "SplashScreen":{
+      "launchShowDuration": 0
+    }
+  },
+  "server": {
+    "androidScheme": "https"
+  }
+
 }
